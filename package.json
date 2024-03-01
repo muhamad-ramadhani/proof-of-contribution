@@ -1,4 +1,4 @@
-{ 
+{
   "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
   "name": "proof-of-contribution",
   "version": "1.0.0",
@@ -6,11 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhamad-ramadhani/proof-of-contribution.git"
+  },
+  "author": "muhamad-ramadhani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhamad-ramadhani/proof-of-contribution/issues"
+  },
   "description": "",
   "devDependencies": {
     "conventional-changelog-cli": "^4.1.0"
-    
   }
 }
