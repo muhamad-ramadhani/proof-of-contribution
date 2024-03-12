@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/muhamad-ramadhani/proof-of-contribution"
+    "url": "git+https://github.com/muhamad-ramadhani/proof-of-contribution.git"
   },
   "author": "muhamad-ramadhani",
   "license": "MIT",
